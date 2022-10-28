@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I’m Shlok! 👋
 
-<!--
-**shlokj/shlokj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an undergraduate studying Computer Science at the University of California, Los Angeles.
 
-Here are some ideas to get you started:
+Having previously worked with robotics and embedded systems, I’m now enthusiastic about building mobile and web apps. I love help solving problems in education and healthcare, from building a platform that helped thousands of underprivileged students gain access to textbooks for school to working with a startup aiming to bring hospital services to patients’ homes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always eager to keep learning new technologies, but for now, I prefer to work with
+- React and React Native in the frontend
+- Node.js with any NoSQL database in the backend
+- Java and Kotlin for native Android apps
+- Cloud services: AWS and GCP/Firebase.
+
+I’d love to chat! Feel free to [email me](shlokj@ucla.edu) or [connect on LinkedIn](https://www.linkedin.com/in/shlokj/)!
