@@ -6,7 +6,7 @@ Having previously worked with robotics and embedded systems, I’m now enthusias
 
 I’m always eager to keep learning new technologies, but for now, I prefer to work with
 - React and React Native in the frontend
-- Node.js with any NoSQL database in the backend
+- Node.js with any SQL/NoSQL database in the backend (I'm proficient in GraphQL and MySQL)
 - Java and Kotlin for native Android apps
 - Cloud services: AWS and GCP/Firebase.
 
