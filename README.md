@@ -10,4 +10,4 @@ I’m always eager to keep learning new technologies, but for now, I prefer to w
 - Java and Kotlin for native Android apps
 - Cloud services: AWS and GCP/Firebase.
 
-I’d love to chat! Feel free to [email me](shlokj@ucla.edu) or [connect on LinkedIn](https://www.linkedin.com/in/shlokj/)!
+I’d love to chat! Feel free to [email me](mailto:shlokj@ucla.edu) or [connect on LinkedIn](https://www.linkedin.com/in/shlokj/)!
